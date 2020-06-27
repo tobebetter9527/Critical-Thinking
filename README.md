@@ -4,7 +4,6 @@ A collection of critical thinking.
 
 
 **目录**
-
 -------
 
 - 基础概念
